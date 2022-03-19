@@ -9,10 +9,12 @@
 
 To see a detailed overview of my work history, check my [LinkedIn](https://www.linkedin.com/in/nick-hopewell/).
 
-[<img align="left" height="94px" width="94px" alt="massive" src="employer_images/Ubisoft_logo.png">](https://www.massive.se/games/)
+[<img align="left" height="100px" width="91px" alt="massive" src="employer_images/Ubisoft_logo.png">](https://www.massive.se/games/)
 
 **Build Engineer, Snowdrop**
 [**Ubisoft - Massive Entertainment**](https://www.massive.se/games/) \* fulltime perm
+<br/>
+<br/>  
 <br/>
 
 **Software Engineer**
@@ -20,14 +22,16 @@ To see a detailed overview of my work history, check my [LinkedIn](https://www.l
 <br/>  
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="EA" src="employer_images/EA_logo_Electronic_Arts.png">](https://www.ea.com/)
+[<img align="left" height="100px" width="100px" alt="EA" src="employer_images/EA_logo_Electronic_Arts.png">](https://www.ea.com/)
 
 **Sofware Developer**
 [**Electronic Arts (EA)**](https://www.ea.com/) \* fulltime contract
 <br/>  
 <br/>
+<br/>  
+<br/>
 
-[<img align="left" height="94px" width="94px" alt="gov" src="employer_images/Government-of-Canada-logo.png">](https://www.canada.ca/en/immigration-refugees-citizenship.html)
+[<img align="left" height="100px" width="68px" alt="gov" src="employer_images/Government-of-Canada-logo.png">](https://www.canada.ca/en/immigration-refugees-citizenship.html)
 
 **Python Developer**
 [**Government of Canada (IRCC)**](https://www.canada.ca/en/immigration-refugees-citizenship.html) \* fulltime perm
