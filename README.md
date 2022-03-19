@@ -16,8 +16,11 @@ To see a detailed overview of my work history, check my [LinkedIn](https://www.l
 **Build Engineer, Snowdrop**
 [**Ubisoft - Massive Entertainment**](https://www.massive.se/games/) \* fulltime perm
 <br/>
-<br/>  
 <br/>
+
+depositphotos_346850260-stock-illustration-initial-letter-logo-vector-design_adj
+[]
+[<img align="left" height="80px" width="80px" alt="wr" src="employer_images/depositphotos_346850260-stock-illustration-initial-letter-logo-vector-design_adj.jpeg">](https://www.linkedin.com/company/78842977/)
 
 **Software Engineer**
 [**Windrunner Technology Inc**](https://www.linkedin.com/company/78842977/) \* contract/freelance
@@ -30,8 +33,6 @@ To see a detailed overview of my work history, check my [LinkedIn](https://www.l
 [**Electronic Arts (EA)**](https://www.ea.com/) \* fulltime contract
 <br/>  
 <br/>
-<br/>  
-<br/>
 
 [<img align="left" height="61px" width="90px" alt="gov" src="employer_images/Government-of-Canada-logo.png">](https://www.canada.ca/en/immigration-refugees-citizenship.html)
 
@@ -39,9 +40,6 @@ To see a detailed overview of my work history, check my [LinkedIn](https://www.l
 [**Government of Canada (IRCC)**](https://www.canada.ca/en/immigration-refugees-citizenship.html) \* fulltime perm
 
 **Data Scientist**
-[**Government of Canada (IRCC)**](https://www.canada.ca/en/immigration-refugees-citizenship.html) \* fulltime perm
-
-**Junior Data Scientist**
 [**Government of Canada (IRCC)**](https://www.canada.ca/en/immigration-refugees-citizenship.html) \* fulltime perm
 
 ### Blog Posts
