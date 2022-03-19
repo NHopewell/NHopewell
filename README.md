@@ -16,8 +16,6 @@ To see a detailed overview of my work history, check my [LinkedIn](https://www.l
 **Build Engineer, Snowdrop**
 [**Ubisoft - Massive Entertainment**](https://www.massive.se/games/) \* fulltime perm
 <br/>
-<br/>
-<br/>
 
 [<img align="left" height="60px" width="60px" alt="wr" src="employer_images/depositphotos_346850260-stock-illustration-initial-letter-logo-vector-design_adj.jpeg">](https://www.linkedin.com/company/78842977/)
 
@@ -25,7 +23,6 @@ To see a detailed overview of my work history, check my [LinkedIn](https://www.l
 
 **Software Engineer**
 [**Windrunner Technology Inc**](https://www.linkedin.com/company/78842977/) \* contract/freelance
-<br/>  
 <br/>
 
 [<img align="left" height="60px" width="60px" alt="EA" src="employer_images/EA_logo_Electronic_Arts.png">](https://www.ea.com/)
@@ -34,7 +31,6 @@ To see a detailed overview of my work history, check my [LinkedIn](https://www.l
 
 **Sofware Developer**
 [**Electronic Arts (EA)**](https://www.ea.com/) \* fulltime contract
-<br/>  
 <br/>
 
 [<img align="left" height="38px" width="60px" alt="gov" src="employer_images/Government-of-Canada-logo.png">](https://www.canada.ca/en/immigration-refugees-citizenship.html)
