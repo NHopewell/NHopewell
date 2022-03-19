@@ -17,10 +17,10 @@ To see a detailed overview of my work history, check my [LinkedIn](https://www.l
 [**Ubisoft - Massive Entertainment**](https://www.massive.se/games/) \* fulltime perm
 <br/>
 <br/>
+<br/>
 
 [<img align="left" height="80px" width="80px" alt="wr" src="employer_images/depositphotos_346850260-stock-illustration-initial-letter-logo-vector-design_adj.jpeg">](https://www.linkedin.com/company/78842977/)
 
-<br/>
 <br/>
 
 **Software Engineer**
