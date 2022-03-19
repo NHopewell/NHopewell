@@ -39,8 +39,14 @@ To see a detailed overview of my work history, check my [LinkedIn](https://www.l
 
 [<img align="left" height="38px" width="60px" alt="gov" src="employer_images/Government-of-Canada-logo.png">](https://www.canada.ca/en/immigration-refugees-citizenship.html)
 
+<br/>
+
 **Python Developer**
 [**Government of Canada (IRCC)**](https://www.canada.ca/en/immigration-refugees-citizenship.html) \* fulltime perm
+<br/>  
+<br/>
+
+[<img align="left" height="38px" width="60px" alt="gov" src="employer_images/Government-of-Canada-logo.png">](https://www.canada.ca/en/immigration-refugees-citizenship.html)
 
 **Data Scientist**
 [**Government of Canada (IRCC)**](https://www.canada.ca/en/immigration-refugees-citizenship.html) \* fulltime perm
