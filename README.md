@@ -17,22 +17,26 @@ To see a detailed overview of my work history, check my [LinkedIn](https://www.l
 
 **Software Engineer**
 [**Windrunner Technology Inc**](https://www.linkedin.com/company/78842977/) \* contract/freelance
+<br/>  
 <br/>
 
 [<img align="left" alt="EA" src="employer_images/EA_logo_Electronic_Arts.png">](https://www.ea.com/)
 
 **Sofware Developer**
 [**Electronic Arts (EA)**](https://www.ea.com/) \* fulltime contract
+<br/>  
 <br/>
 
 [<img align="left" alt="gov" src="employer_images/Government-of-Canada-logo.png">](https://www.canada.ca/en/immigration-refugees-citizenship.html)
 
 **Python Developer**
 [**Government of Canada (IRCC)**](https://www.canada.ca/en/immigration-refugees-citizenship.html) \* fulltime perm
+<br/>  
 <br/>
 
 **Data Scientist**
 [**Government of Canada (IRCC)**](https://www.canada.ca/en/immigration-refugees-citizenship.html) \* fulltime perm
+<br/>  
 <br/>
 
 **Junior Data Scientist**
