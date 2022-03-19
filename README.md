@@ -18,9 +18,9 @@ To see a detailed overview of my work history, check my [LinkedIn](https://www.l
 <br/>
 <br/>
 
-depositphotos_346850260-stock-illustration-initial-letter-logo-vector-design_adj
-[]
 [<img align="left" height="80px" width="80px" alt="wr" src="employer_images/depositphotos_346850260-stock-illustration-initial-letter-logo-vector-design_adj.jpeg">](https://www.linkedin.com/company/78842977/)
+
+<br/>
 
 **Software Engineer**
 [**Windrunner Technology Inc**](https://www.linkedin.com/company/78842977/) \* contract/freelance
@@ -28,6 +28,8 @@ depositphotos_346850260-stock-illustration-initial-letter-logo-vector-design_adj
 <br/>
 
 [<img align="left" height="80px" width="80px" alt="EA" src="employer_images/EA_logo_Electronic_Arts.png">](https://www.ea.com/)
+
+<br/>
 
 **Sofware Developer**
 [**Electronic Arts (EA)**](https://www.ea.com/) \* fulltime contract
