@@ -12,7 +12,7 @@ To see a detailed overview of my work history, check my [LinkedIn](https://www.l
 [<img align="left" height="80px" width="80px" alt="massive" src="employer_images/Ubisoft_logo.png">](https://www.massive.se/games/)
 
 <br/>
-<br/> 
+
 **Build Engineer, Snowdrop**
 [**Ubisoft - Massive Entertainment**](https://www.massive.se/games/) \* fulltime perm
 <br/>
