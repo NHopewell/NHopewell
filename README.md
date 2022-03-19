@@ -25,7 +25,7 @@ To see a detailed overview of my work history, check my [LinkedIn](https://www.l
 [**Electronic Arts (EA)**](https://www.ea.com/) \* fulltime contract
 <br/>
 
-[<img align="left" alt="gov" src="Government-of-Canada-logo.png">](https://www.canada.ca/en/immigration-refugees-citizenship.html)
+[<img align="left" alt="gov" src="employer_images/Government-of-Canada-logo.png">](https://www.canada.ca/en/immigration-refugees-citizenship.html)
 
 **Python Developer**
 [**Government of Canada (IRCC)**](https://www.canada.ca/en/immigration-refugees-citizenship.html) \* fulltime perm
