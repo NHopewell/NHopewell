@@ -21,7 +21,7 @@ To see a detailed overview of my work history, check my [LinkedIn](https://www.l
 <br/>
 <br/>
 
-[<img align="left" height="51px" width="200px" alt="wr" src="employer_images/wr.jpeg">](https://www.linkedin.com/company/78842977/)
+[<img align="left" height="51px" width="200px" alt="wr" src="employer_images/wr">](https://www.linkedin.com/company/78842977/)
 
 <br/>
 
