@@ -24,40 +24,40 @@ To see a detailed overview of my work history, check my [LinkedIn](https://www.l
 [**Ubisoft - Massive Entertainment**](https://www.massive.se/games/) \* fulltime perm
 
 </td>
-
 </tr>
+
 <tr>
-<td>16</td>
-<td>14</td>
-<td>10</td>
-</tr>
-</table>
-
-[<img align="left" height="51px" width="200px" alt="massive" src="employer_images/ubi.png">](https://www.massive.se/games/)
-
-<br/>
-
-**Build Engineer, Snowdrop**
-[**Ubisoft - Massive Entertainment**](https://www.massive.se/games/) \* fulltime perm
-<br/>
-<br/>
+<td>
 
 [<img align="left" height="51px" width="200px" alt="EA" src="employer_images/Electronic-Arts-Logo.png">](https://www.ea.com/)
 
-<br/>
+</td>
+<td>
 
 **Sofware Developer**
 [**Electronic Arts (EA)**](https://www.ea.com/) \* fulltime contract
-<br/>  
-<br/>
+
+</td>
+</tr>
+
+<tr>
+<td>
 
 [<img align="left" height="61px" width="200px" alt="gov" src="employer_images/CANADA150LOGO.png">](https://www.canada.ca/en/immigration-refugees-citizenship.html)
+
+</td>
+<td>
 
 **Python Developer**
 [**Government of Canada (IRCC)**](https://www.canada.ca/en/immigration-refugees-citizenship.html) \* fulltime perm
 
 **Data Scientist**
 [**Government of Canada (IRCC)**](https://www.canada.ca/en/immigration-refugees-citizenship.html) \* fulltime perm
+
+</td>
+</tr>
+
+</table>
 
 <br/>
 
