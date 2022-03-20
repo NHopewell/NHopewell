@@ -19,9 +19,8 @@ To see a detailed overview of my work history, check my [LinkedIn](https://www.l
 [**Ubisoft - Massive Entertainment**](https://www.massive.se/games/) \* fulltime perm
 <br/>
 <br/>
-<br/>
 
-[<img align="left" height="51px" width="200px" alt="wr" src="employer_images/wr.jpg">](https://www.linkedin.com/company/78842977/)
+[<img align="left" height="51px" width="200px" alt="EA" src="employer_images/Electronic-Arts-Logo.png">](https://www.ea.com/)
 
 <br/>
 
@@ -36,9 +35,6 @@ To see a detailed overview of my work history, check my [LinkedIn](https://www.l
 [**Government of Canada (IRCC)**](https://www.canada.ca/en/immigration-refugees-citizenship.html) \* fulltime perm
 
 **Data Scientist**
-[**Government of Canada (IRCC)**](https://www.canada.ca/en/immigration-refugees-citizenship.html) \* fulltime perm
-
-**Junior Data Scientist**
 [**Government of Canada (IRCC)**](https://www.canada.ca/en/immigration-refugees-citizenship.html) \* fulltime perm
 
 <br/>
