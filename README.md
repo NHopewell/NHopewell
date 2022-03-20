@@ -11,7 +11,7 @@
 
 To see a detailed overview of my work history, check my [LinkedIn](https://www.linkedin.com/in/nick-hopewell/).
 
-[<img align="left" height="60px" width="60px" alt="massive" src="employer_images/Ubisoft_logo.png">](https://www.massive.se/games/)
+[<img align="left" height="51px" width="200px" alt="massive" src="employer_images/massive_logo.png">](https://www.massive.se/games/)
 
 <br/>
 
@@ -21,7 +21,7 @@ To see a detailed overview of my work history, check my [LinkedIn](https://www.l
 <br/>
 <br/>
 
-[<img align="left" height="60px" width="60px" alt="wr" src="employer_images/depositphotos_346850260-stock-illustration-initial-letter-logo-vector-design_adj.jpeg">](https://www.linkedin.com/company/78842977/)
+[<img align="left" height="51px" width="200px" alt="wr" src="employer_images/wr.jpeg">](https://www.linkedin.com/company/78842977/)
 
 <br/>
 
@@ -30,7 +30,7 @@ To see a detailed overview of my work history, check my [LinkedIn](https://www.l
 <br/>  
 <br/>
 
-[<img align="left" height="60px" width="60px" alt="EA" src="employer_images/EA_logo_Electronic_Arts.png">](https://www.ea.com/)
+[<img align="left" height="51px" width="200px" alt="EA" src="employer_images/Electronic-Arts-Logo.png">](https://www.ea.com/)
 
 <br/>
 
@@ -39,7 +39,7 @@ To see a detailed overview of my work history, check my [LinkedIn](https://www.l
 <br/>  
 <br/>
 
-[<img align="left" height="52px" width="60px" alt="gov" src="employer_images/Government-of-Canada-logo.png">](https://www.canada.ca/en/immigration-refugees-citizenship.html)
+[<img align="left" height="51px" width="200px" alt="gov" src="employer_images/gov_of_can.png">](https://www.canada.ca/en/immigration-refugees-citizenship.html)
 
 **Python Developer**
 [**Government of Canada (IRCC)**](https://www.canada.ca/en/immigration-refugees-citizenship.html) \* fulltime perm
