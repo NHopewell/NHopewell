@@ -29,7 +29,7 @@ To see a detailed overview of my work history, check my [LinkedIn](https://www.l
 <br/>  
 <br/>
 
-[<img align="left" height="51px" width="200px" alt="gov" src="employer_images/gov_of_can.png">](https://www.canada.ca/en/immigration-refugees-citizenship.html)
+[<img align="left" height="51px" width="200px" alt="gov" src="employer_images/can.png">](https://www.canada.ca/en/immigration-refugees-citizenship.html)
 
 **Python Developer**
 [**Government of Canada (IRCC)**](https://www.canada.ca/en/immigration-refugees-citizenship.html) \* fulltime perm
