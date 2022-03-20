@@ -5,8 +5,6 @@
 - 💬 You can get in touch with me by email at [nicholashopewell@gmail.com](mailto:nicholashopewell@gmail.com) and [LinkedIn](https://www.linkedin.com/in/nick-hopewell/).
 - 🌱 I’m currently learning more about DevOps engineering.
 
-<br/>
-
 ### Work Experience
 
 To see a detailed overview of my work history, check my [LinkedIn](https://www.linkedin.com/in/nick-hopewell/).
@@ -58,8 +56,6 @@ To see a detailed overview of my work history, check my [LinkedIn](https://www.l
 </tr>
 
 </table>
-
-<br/>
 
 ### Blog Posts
 
