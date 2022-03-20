@@ -12,20 +12,28 @@
 To see a detailed overview of my work history, check my [LinkedIn](https://www.linkedin.com/in/nick-hopewell/).
 
 <table>
-  <tr>
-    <td>[<img align="left" height="51px" width="200px" alt="massive" src="employer_images/ubi.png">](https://www.massive.se/games/)</td>
-    <td>**Build Engineer, Snowdrop**
-[**Ubisoft - Massive Entertainment**](https://www.massive.se/games/)</td>
-  </tr>
-  <tr>
-    <td>16</td>
-    <td>14</td>
-  </tr>
-    <tr>
-    <td>16</td>
-    <td>14</td>
-  </tr>
+<tr>
+<td>
+
+[<img align="left" height="51px" width="200px" alt="massive" src="employer_images/ubi.png">](https://www.massive.se/games/)
+
+</td>
+<td>
+
+**Build Engineer, Snowdrop**
+[**Ubisoft - Massive Entertainment**](https://www.massive.se/games/) \* fulltime perm
+
+</td>
+
+</tr>
+<tr>
+<td>16</td>
+<td>14</td>
+<td>10</td>
+</tr>
 </table>
+
+[<img align="left" height="51px" width="200px" alt="massive" src="employer_images/ubi.png">](https://www.massive.se/games/)
 
 <br/>
 
