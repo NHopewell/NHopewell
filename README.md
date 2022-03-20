@@ -11,7 +11,7 @@
 
 To see a detailed overview of my work history, check my [LinkedIn](https://www.linkedin.com/in/nick-hopewell/).
 
-[<img align="left" height="51px" width="200px" alt="massive" src="employer_images/massive_logo.png">](https://www.massive.se/games/)
+[<img align="left" height="51px" width="200px" alt="massive" src="employer_images/ubi.png">](https://www.massive.se/games/)
 
 <br/>
 
@@ -22,15 +22,6 @@ To see a detailed overview of my work history, check my [LinkedIn](https://www.l
 <br/>
 
 [<img align="left" height="51px" width="200px" alt="wr" src="employer_images/wr.jpg">](https://www.linkedin.com/company/78842977/)
-
-<br/>
-
-**Software Engineer**
-[**Windrunner Technology Inc**](https://www.linkedin.com/company/78842977/) \* contract/freelance
-<br/>  
-<br/>
-
-[<img align="left" height="51px" width="200px" alt="EA" src="employer_images/Electronic-Arts-Logo.png">](https://www.ea.com/)
 
 <br/>
 
