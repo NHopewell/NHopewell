@@ -11,7 +11,7 @@
 
 To see a detailed overview of my work history, check my [LinkedIn](https://www.linkedin.com/in/nick-hopewell/).
 
-<table>
+<table style="background-color:#ffffff;">
 <tr>
 <td>
 
