@@ -52,6 +52,9 @@ To see a detailed overview of my work history, check my [LinkedIn](https://www.l
 **Data Scientist**
 [**Government of Canada (IRCC)**](https://www.canada.ca/en/immigration-refugees-citizenship.html) \* fulltime perm
 
+**Junior Data Scientist**
+[**Government of Canada (IRCC)**](https://www.canada.ca/en/immigration-refugees-citizenship.html) \* fulltime perm
+
 </td>
 </tr>
 
