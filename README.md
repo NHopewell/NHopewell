@@ -4,8 +4,6 @@ I’m a **Software Developer** who specializes in **Python** engineering. You ca
 
 ### Work Experience
 
-To see a detailed overview of my work history, check my [LinkedIn](https://www.linkedin.com/in/nick-hopewell/).
-
 <table style="background-color:#ffffff;">
 <tr>
 <td>
