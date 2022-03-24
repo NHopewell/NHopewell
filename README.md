@@ -1,9 +1,6 @@
-### Hi there 👋 I'm Nick
+### Hi friends 👋
 
-- 🐍 I’m a **Software Developer** who specializes in **Python** engineering. I have worked in tech, the public sector, and my own company. I especially love working in the gaming industry.
-- 🔭 In my free time, I love to learn more about Python and software design best practices. I and have made a few cool projects (see below). My favorite being an [API for a build system](https://github.com/NHopewell/diskspace-monitor-CRUD)
-- 💬 You can get in touch with me by email at [nicholashopewell@gmail.com](mailto:nicholashopewell@gmail.com) and [LinkedIn](https://www.linkedin.com/in/nick-hopewell/).
-- 🌱 I’m currently learning more about DevOps engineering.
+I’m a **Software Developer** who specializes in **Python** engineering. You can get in touch with me by email at [nicholashopewell@gmail.com](mailto:nicholashopewell@gmail.com) and [LinkedIn](https://www.linkedin.com/in/nick-hopewell/).
 
 ### Work Experience
 
