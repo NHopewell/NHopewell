@@ -55,6 +55,8 @@ I’m a **Software Developer** who specializes in **Python** engineering. You ca
 
 </table>
 
+I also have my [own company](https://www.linkedin.com/company/78842977) that I pick up incorporated contracts through.
+
 ### Blog Posts
 
 Here you will see a couple entries from my Python blog [Import This](https://nicholashopewell.com/import-this/).
