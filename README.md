@@ -10,7 +10,7 @@ To see a detailed overview of my work history, check my [LinkedIn](https://www.l
 <tr>
 <td>
 
-[<img align="left" height="51px" width="200px" alt="massive" src="employer_images/ubi.png">](https://www.massive.se/games/)
+[<img align="left" height="51px" width="200px" alt="massive" src="employer_images/ubi_logo1.png">](https://www.massive.se/games/)
 
 </td>
 <td>
