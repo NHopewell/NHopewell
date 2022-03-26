@@ -27,7 +27,7 @@ I’m a **Software Developer** who specializes in **Python** engineering. You ca
 </td>
 <td>
 
-**Sofware Developer**
+**Software Developer**
 [**Electronic Arts (EA)**](https://www.ea.com/) \* fulltime contract
 
 </td>
