@@ -13,7 +13,7 @@ I’m a **Software Developer** who specializes in **Python** engineering. You ca
 </td>
 <td>
 
-**Build Engineer, Snowdrop**
+**Build Software Engineer (Incoming), Snowdrop**
 [**Ubisoft - Massive Entertainment**](https://www.massive.se/games/) \* fulltime perm
 
 </td>
