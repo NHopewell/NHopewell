@@ -1,6 +1,6 @@
 ### Hi friends 👋
 
-I’m a **Software Developer** who specializes in **Python** engineering and currently diving into DevOps. You can get in touch with me by email at [nicholashopewell@gmail.com](mailto:nicholashopewell@gmail.com) and [LinkedIn](https://www.linkedin.com/in/nick-hopewell/).
+I’m a **Software Developer** who specializes in **Python** engineering and currently diving into **DevOps**. You can get in touch with me by email at [nicholashopewell@gmail.com](mailto:nicholashopewell@gmail.com) and [LinkedIn](https://www.linkedin.com/in/nick-hopewell/).
 
 ### Work Experience
 
