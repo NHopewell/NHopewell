@@ -36,7 +36,7 @@ I’m a **Software Developer** who specializes in **Python** engineering and cur
 <tr>
 <td>
 
-[<img align="left" height="61px" width="200px" alt="gov" src="employer_images/CANADA150LOGO.png">](https://www.canada.ca/en/immigration-refugees-citizenship.html)
+[<img align="left" height="61px" width="185px" alt="gov" src="employer_images/CANADA150LOGO.png">](https://www.canada.ca/en/immigration-refugees-citizenship.html)
 
 </td>
 <td>
