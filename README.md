@@ -47,9 +47,6 @@ I’m a **Software Developer** who specializes in **Python** engineering and cur
 **Data Scientist**
 [**Government of Canada (IRCC)**](https://www.canada.ca/en/immigration-refugees-citizenship.html) \* fulltime perm
 
-**Junior Data Scientist**
-[**Government of Canada (IRCC)**](https://www.canada.ca/en/immigration-refugees-citizenship.html) \* fulltime perm
-
 </td>
 </tr>
 
