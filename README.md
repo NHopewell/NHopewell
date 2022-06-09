@@ -14,8 +14,7 @@ I’m a **Software Developer** who specializes in **Python** engineering and cur
 <td>
 
 **Build Engineer, Snowdrop**
-[**Ubisoft - Massive Entertainment**](https://www.massive.se/games/) \* fulltime perm
-
+[**Ubisoft - Massive Entertainment**](https://www.massive.se/games/) \* fulltime
 </td>
 </tr>
 
@@ -28,7 +27,7 @@ I’m a **Software Developer** who specializes in **Python** engineering and cur
 <td>
 
 **Software Developer**
-[**Electronic Arts (EA)**](https://www.ea.com/) \* fulltime contract
+[**Electronic Arts (EA)**](https://www.ea.com/) \* fulltime
 
 </td>
 </tr>
@@ -42,10 +41,10 @@ I’m a **Software Developer** who specializes in **Python** engineering and cur
 <td>
 
 **Python Developer**
-[**Government of Canada (IRCC)**](https://www.canada.ca/en/immigration-refugees-citizenship.html) \* fulltime perm
+[**Government of Canada (IRCC)**](https://www.canada.ca/en/immigration-refugees-citizenship.html) \* fulltime
 
 **Data Scientist**
-[**Government of Canada (IRCC)**](https://www.canada.ca/en/immigration-refugees-citizenship.html) \* fulltime perm
+[**Government of Canada (IRCC)**](https://www.canada.ca/en/immigration-refugees-citizenship.html) \* fulltime
 
 </td>
 </tr>
